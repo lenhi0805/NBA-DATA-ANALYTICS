@@ -1,0 +1,2 @@
+# NBA-DATA-ANALYTICS
+In analyzing this dataset, we have multiple driving factors in our analysis. We want to predict the season-end winning rates of all NBA teams given our current data, answering this using key team-based statistics available to us. In this analysis, we want to figure out the most useful metrics that determine winning. We also want to look at how individual player statistics contribute to the success of the team overall, looking at different production categories and game performances.
